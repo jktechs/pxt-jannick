@@ -1,0 +1,9 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "autoConvertHtml": false,
+  "vimMode": true,
+  "showUnsupportedFiles": true
+}
