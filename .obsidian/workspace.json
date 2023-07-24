@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0cd9119c51f45a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combinatorial logic.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -148,7 +160,8 @@
   },
   "active": "1e04333df0c4737f",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md"
+    "Combinatorial logic.md",
+    "Main.md",
+    "Untitled 1.md"
   ]
 }
