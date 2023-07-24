@@ -1,0 +1,33 @@
+body {
+  --ul-back1: #282828;
+  --ul-back2: #383838;
+}
+ul, ol, ul ul ul, ol ol ol {
+  background-color: var(--ul-back1);
+  border-radius: 1em;
+}
+ul ul, ol ol, ul ul ul ul, ol ol ol ol {
+  background-color: var(--ul-back2);
+}
+h1::before, h2::before, h3::before, h4::before, h5::before, h6::before, .inline-title::before {
+  content: "";
+  width: 100%;
+  height: 2px;
+  background-color: var(--ul-back1);
+  display: block;
+}
+ul ul .list-bullet:after, ul ul ul ul .list-bullet:after {
+  content: '○';
+}
+ul .list-bullet:after, ul ul ul .list-bullet:after {
+  content: '●';
+  background-color: transparent;
+  transform: translate(0px,-10px)
+}
+a {
+  text-decoration-line: inherit !important;
+  color: #8c4bf5
+}
+mark {
+  background-color: #8c4bf5 !important;
+}
