@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
-                "mode": "preview",
+                "file": "Recourcepack/Assets.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Recourcepack/Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Recourcepack/Assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Recourcepack/Assets.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "2a81a27784fb4608",
   "lastOpenFiles": [
-    "Combinatorial logic.md",
     "Main.md",
+    "Recourcepack/Assets.md",
+    "Recourcepack",
+    "Combinatorial logic.md",
     "Math Definitions.md",
     "Untitled 1.md"
   ]
