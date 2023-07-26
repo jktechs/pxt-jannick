@@ -34,6 +34,7 @@ if it works
 }
 ```
 
-a|b|c
---|--|--
+a very long string|almost as long|very long
+--:|:--:|:--
 d|e|f
+g|h|i
