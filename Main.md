@@ -38,3 +38,22 @@ a very long string|almost as long|very long
 --:|:--:|:--
 d|e|f
 g|h|i
+
+```mermaid
+sequenceDiagram
+    actor A1
+    participant B1
+    A1->>+B1: Hello John, how are you?
+    A1->>B1: John, can you hear me?
+    A1-->C1: hello
+    B1->>C1: hello
+    B1->>A1: Hi Alice, I can hear you!
+    Note over A1,B1: A typical interaction
+    B1->>-A1: I feel great!
+    loop Every minute
+        B1-->C1: Great!
+    end
+    A1-->A1: tf am i doing
+    A1-->>B1: done
+
+```
