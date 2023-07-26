@@ -43,13 +43,13 @@ g|h|i
 sequenceDiagram
     actor A1
     participant B1
-    A1->>+B1: Hello John, how are you?
+    A1->>B1: Hello John, how are you?
     A1->>B1: John, can you hear me?
     A1-->C1: hello
     B1->>C1: hello
     B1->>A1: Hi Alice, I can hear you!
     Note over A1,B1: A typical interaction
-    B1->>-A1: I feel great!
+    B1->>A1: I feel great!
     loop Every minute
         B1-->C1: Great!
     end
