@@ -1,4 +1,4 @@
-- [ ] ok
+- [x] ok
 - [x] not ok
 
 Subjects
