@@ -1,3 +1,9 @@
+```button
+name TestButton
+type command
+action Obsidian Git: Pull
+```
+^button-ghjq
 ```mermaid
 graph TD;
     A-->B;
