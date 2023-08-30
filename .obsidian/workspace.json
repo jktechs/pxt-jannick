@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Main.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -148,11 +148,15 @@
   },
   "active": "2a81a27784fb4608",
   "lastOpenFiles": [
-    "Combinatorial logic.md",
     "Math Definitions.md",
+    "Main.md",
+    "Home.md",
+    "Combinatorial logic.md",
+    "Lexacal parser.md",
+    "Tank tactics.md",
+    "Test.md",
     "Recourcepack/Assets.md",
     "Recourcepack/Textures.md",
-    "Main.md",
     "Recourcepack/Blockstates.md",
     "Recourcepack/Lang.md",
     "Recourcepack",

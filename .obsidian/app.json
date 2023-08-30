@@ -4,7 +4,7 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "autoConvertHtml": false,
-  "vimMode": true,
+  "vimMode": false,
   "showUnsupportedFiles": true,
   "autoPairMarkdown": false
 }

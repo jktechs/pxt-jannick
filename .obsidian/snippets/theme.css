@@ -9,7 +9,7 @@ ul, ol, ul ul ul, ol ol ol {
 ul ul, ol ol, ul ul ul ul, ol ol ol ol {
   background-color: var(--ul-back2);
 }
-h1::before, h2::before, h3::before, h4::before, h5::before, h6::before, .inline-title::before {
+h1::before .inline-title::before {
   content: "";
   width: 100%;
   height: 2px;
