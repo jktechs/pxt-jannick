@@ -14,12 +14,19 @@ Z integer numbers ..., -2, -1, 0, 1, 2, ...
 Q ratinal numbers $p/q$ whare p and q are integers (and q != 0)  
 R real numbers  
 C complex numbers $a+b*i$ where a and b are real  
-(I imaganary numbers)  
+(I imaginary numbers)  
 
-## Decimal expansion
-1/7 = 0.142857|142857|  
-1/2 = 0.5|0|  
-1/3 = 0.3|3|  
+### Symbols
+| Symbol | Meaning |
+|---|---|
+| $\cup$ | Union |  
+| $\cap$ | intersection |
+| $\in$ |  element of |
+| $\lor$ | or |
+| $\land$ | and |
+| $\implies$ | form A follows B |
+| $\iff$ | A => B and A <= B |
+| A/B | all x $\in$ A for which x $\notin$ B |
 
 ## Intervals
 [] included <=  
@@ -27,32 +34,39 @@ C complex numbers $a+b*i$ where a and b are real
 x in $[0,1)$ would be 0 <= x < 1  
 $[1, inf)$ would be 1 <= x ( < inf)  
 
-$\cup$ union  
-$\cap$ intersection  
-E element of  
-$\lor$ or  
-$\land$ and  
-=> form A follows B  
-<=> A => B and A <= B  
-A/B  
-all x $\in$ A for wich x $\notin$ B  
-
 $(0,1) \cup (\frac1 2,2] = (0,2]$  
 $(0,1) \cap (\frac1 2,2] = (\frac1 2,1)$
 
+## Decimal expansion
+1/7 = 0.142857|142857|  
+1/2 = 0.5|0|  
+1/3 = 0.3|3|  
+
 ## polynomial
-Degree (order): is the highest ocurring power (in its reduced/simplified form)
-they can be use to aproximate other functions
+Degree (order): is the highest occurring power (in its reduced/simplified form)
+they can be use to approximate other functions
 
-can be factered into linear terms (with all the roots)
+### Factoring
 
-can be divided to get a lesser degree
-or substitution can be used to do the same.
+#### Using big powers
+$x^3+2x^2 \implies x^2(x+2)$
+#### Using factors of the powers (Substitution)
+$x^4+2x^2 \implies p^2+2p$ where $p=x^2$
+#### Using known roots (Division)
+$\frac{2x^3+5x^2+2x-1}{x+1} = \frac{2x^3+2x^2+3x^2+2x-1}{x+1} = \frac{2x^3+2x^2+3x^2+3x-x-1}{x+1} = \frac{2(x^3+x^2)+3(x^2+x)-(x+1)}{x+1} = \frac{2x^2(x+1)+3x(x+1)-(x+1)}{x+1} = 2x^2+3x-1$
 
 ### Quadratic
-use discrimanant b^2-4ac for ax^2+bx+c to get the amount of solutions
-x=0 is 1
-x<0 is none
-x>0 is two
+use discriminant b^2-4ac for ax^2+bx+c to get the amount of solutions
 
+| value of $b^2-4ac$ | number of roots |
+|---|---|
+| =0 | 1 |
+| <0 | none |
+| >0 | two |
 
+## Inequalities
+1. replace $\le$, $\ge$, $>$, $<$ with $=$
+2. get the solutions
+3. make a number line
+4. check signs
+5. determine solution
