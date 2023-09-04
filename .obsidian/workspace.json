@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus.md",
-                "mode": "preview",
+                "file": "Calculus Y1 Q1.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus.md",
-                "collapseAll": false,
+                "file": "Calculus Y1 Q1.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus.md",
+                "file": "Calculus Y1 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus.md"
+                "file": "Calculus Y1 Q1.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
   "lastOpenFiles": [
     "Main.md",
     "Math Definitions.md",
-    "Calculus.md",
+    "Calculus Y1 Q1.md",
     "Home.md",
     "Combinatorial logic.md",
     "Test.md",
