@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "373c4c7374e6d675",
+        "id": "1b8752abdd127fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a81a27784fb4608",
+            "id": "89c3912e4b705f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "TUE/Programming Y1 Q1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
-                "collapseAll": false,
+                "file": "TUE/Programming Y1 Q1.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "TUE/Programming Y1 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "TUE/Programming Y1 Q1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,13 +147,21 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2a81a27784fb4608",
+  "active": "89c3912e4b705f3c",
   "lastOpenFiles": [
     "Combinatorial logic.md",
+    "Lexacal parser.md",
+    "Tank tactics.md",
     "Math Definitions.md",
+    "TUE/Programming Y1 Q1.md",
+    "Random tests",
+    "TUE/Calculus Y1 Q1.md",
+    "Random tests/Home.md",
+    "TUE",
+    "Random tests/Main.md",
+    "Random tests/Test.md",
     "Recourcepack/Assets.md",
     "Recourcepack/Textures.md",
-    "Main.md",
     "Recourcepack/Blockstates.md",
     "Recourcepack/Lang.md",
     "Recourcepack",

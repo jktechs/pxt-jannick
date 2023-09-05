@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "652bf4e024282f2f",
+            "id": "e7f5accb429ec0ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Math Definitions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,20 +21,31 @@
             }
           },
           {
-            "id": "e7f5accb429ec0ca",
+            "id": "453a1a622a1825f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Tank tactics.md",
                 "mode": "preview",
-                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "008cdd411b52801c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexacal parser.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main.md",
+            "file": "Lexacal parser.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Main.md",
+            "file": "Lexacal parser.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Main.md"
+            "file": "Lexacal parser.md"
           }
         }
       }
@@ -146,12 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ad2831dfd7299ac",
+  "active": "008cdd411b52801c",
   "lastOpenFiles": [
-    "Home.md",
-    "Main.md",
-    "Test.md",
+    "Tank tactics.md",
+    "Lexacal parser.md",
     "Math Definitions.md",
-    "Combinatorial logic.md"
+    "Main.md",
+    "Home.md",
+    "Combinatorial logic.md",
+    "Test.md",
+    "/Test.md",
+    "/Home.md",
+    "/Main.md"
   ]
 }
