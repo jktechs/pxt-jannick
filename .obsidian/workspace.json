@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "373c4c7374e6d675",
+        "id": "1b8752abdd127fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a81a27784fb4608",
+            "id": "89c3912e4b705f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "98bafa61e7e59148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus Y1 Q1.md",
+                "file": "TUE/Programming Y1 Q1.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus Y1 Q1.md",
+                "file": "TUE/Programming Y1 Q1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus Y1 Q1.md",
+                "file": "TUE/Programming Y1 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus Y1 Q1.md"
+                "file": "TUE/Programming Y1 Q1.md"
               }
             }
           }
@@ -160,12 +147,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "98bafa61e7e59148",
+  "active": "89c3912e4b705f3c",
   "lastOpenFiles": [
+    "TUE/Calculus Y1 Q1.md",
+    "TUE/Programming Y1 Q1.md",
+    "Home.md",
+    "TUE",
     "Main.md",
     "Math Definitions.md",
-    "Calculus Y1 Q1.md",
-    "Home.md",
     "Combinatorial logic.md",
     "Test.md",
     "Tank tactics.md",
