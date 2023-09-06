@@ -29,3 +29,10 @@ Void can be used when there is no return type.
 
 ## Static vs non-static
 Static means that something can be accessed without a object of that type. If the static keyword is not used, you need an object of that type to use the variable or function.
+
+## Basic Types
+### String
+### Int
+### Float/Double
+### Array: `(int[])`
+### ArrayList
