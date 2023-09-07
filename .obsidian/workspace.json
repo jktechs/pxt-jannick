@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUE/Logic and set theory Y1 Q1.md",
-                "mode": "source",
+                "file": "TUE/Logic and set theory exercises/Week 1.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUE/Logic and set theory Y1 Q1.md",
+                "file": "TUE/Logic and set theory exercises/Week 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUE/Logic and set theory Y1 Q1.md",
+                "file": "TUE/Logic and set theory exercises/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUE/Logic and set theory Y1 Q1.md"
+                "file": "TUE/Logic and set theory exercises/Week 1.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "89c3912e4b705f3c",
   "lastOpenFiles": [
+    "TUE/Logic and set theory Y1 Q1.md",
+    "TUE/Logic and set theory exercises/Week 1.md",
+    "TUE/Logic and set theory exercises",
     "Random tests/Main.md",
     "TUE/Programming Y1 Q1.md",
-    "TUE/Logic and set theory Y1 Q1.md",
     "TUE/Calculus Y1 Q1.md",
     "Math Definitions.md",
     "Combinatorial logic.md",
